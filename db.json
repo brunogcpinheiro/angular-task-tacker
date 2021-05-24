@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Estudar Angular",
+      "day": "May 25th",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
