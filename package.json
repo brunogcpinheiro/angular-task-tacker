@@ -5,7 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development",
+    "watch": "ng build --watch db.json --configuration development",
+    "serve": "json-server --watch --port 5000 --delay 500",
     "test": "ng test"
   },
   "private": true,
